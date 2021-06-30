@@ -1,0 +1,1 @@
+A college management system in C++ to handle students records.
